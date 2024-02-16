@@ -6,7 +6,7 @@ import quotes from "../data/quotes.json";
 const app = new Hono();
 
 // Middlewares
-app.use("*", prettyJSON());
+app.use("*", prettyJSON({ space: 4 }));
 app.use("*", cors());
 
 // Routes
