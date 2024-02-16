@@ -1,7 +1,236 @@
 [
     {
-        "id": 1,
-        "quote": "sample string",
+        "id": "50",
+        "quote": "I wanted to make fun of stupid people while I get drunk. My two true passions.",
+        "character": "April"
+    },
+    {
+        "id": "49",
+        "quote": "When they say 2% milk, I don't know what the other 98% is.",
+        "character": "Andy"
+    },
+    {
+        "id": "48",
+        "quote": "If there were more food and fewer people, this would be a perfect party.",
         "character": "Ron"
-    }
+    },
+    {
+        "id": "47",
+        "quote": "Call an ambulance! A different ambulance! The one I ran into!",
+        "character": "Andy"
+    },
+    {
+        "id": "46",
+        "quote": "Windows are the eyes to the house.",
+        "character": "Andy"
+    },
+    {
+        "id": "45",
+        "quote": "I like saying no. It lowers their enthusiasm.",
+        "character": "Ron"
+    },
+    {
+        "id": "44",
+        "quote": "There's only one thing I hate more than lying: skim milk. Which is water that's lying about being milk.",
+        "character": "Ron"
+    },
+    {
+        "id": "43",
+        "quote": "When life gives you lemons, make lemonade. I read that one on a can of lemonade. I like to think it applies to life.",
+        "character": "Andy"
+    },
+    {
+        "id": "42",
+        "quote": "Is <i>Star Wars</i> the one with the little wizard boy?",
+        "character": "Ron"
+    },
+    {
+        "id": "41",
+        "quote": "Ron and Diane, sitting in a tree. K-I-S-S-I-S-S-I-P-P-I. Did you hear that bird?",
+        "character": "Andy"
+    },
+    {
+        "id": "40",
+        "quote": "When I was a baby, my head was so big, scientists did experiments on me.",
+        "character": "Andy"
+    },
+    {
+        "id": "39",
+        "quote": "[Cats and dogs] should be rewarded for not being people. I hate people.",
+        "character": "April"
+    },
+    {
+        "id": "38",
+        "quote": "I was born ready. I'm Ron f%$king Swanson.",
+        "character": "Ron (of course)"
+    },
+    {
+        "id": "37",
+        "quote": "Guys love it when you can show them you're better than they are at something they love.",
+        "character": "Leslie"
+    },
+    {
+        "id": "36",
+        "quote": "I have several men in rotation. One's waiting for me in the car. Don't worry, I rolled the window down for him.",
+        "character": "Donna"
+    },
+    {
+        "id": "35",
+        "quote": "If you don't believe in love, what's the point of living?",
+        "character": "Ron"
+    },
+    {
+        "id": "34",
+        "quote": "Strippers do nothing for me…but I will take a free breakfast buffet anytime, anyplace.",
+        "character": "Ron"
+    },
+    {
+        "id": "33",
+        "quote": "I tried to make ramen in the coffee pot and I broke everything.",
+        "character": "Andy"
+    },
+    {
+        "id": "32",
+        "quote": "I found a sandwich in one of your parks, and I want to know why it didn't have mayonnaise!",
+        "character": "Random Pawnee citizen"
+    },
+    {
+        "id": "31",
+        "quote": "We need to remember what's important in life: friends, waffles, work. Or waffles, friends, work. Doesn't matter, but work is third.",
+        "character": "Leslie"
+    },
+    {
+        "id": "30",
+        "quote": "I once worked with a guy for three years and never learned his name. Best friend I ever had. We still never speak sometimes.",
+        "character": "Ron"
+    },
+    {
+        "id": "29",
+        "quote": "Farts and poop and love and stuff. Macaroni salad.",
+        "character": "Andy"
+    },
+    {
+        "id": "28",
+        "quote": "I'm like an elephant, okay? If I walk into a room, it's like, okay, he's in there.",
+        "character": "Tom"
+    },
+    { "id": "27", "quote": "Bababooey.", "character": "Ben" },
+    {
+        "id": "26",
+        "quote": "I am going to consume all of this at the same time because I am a free American.",
+        "character": "Ron"
+    },
+    {
+        "id": "25",
+        "quote": "I just slept seven hours, which is twice as long as I usually sleep, so I'm a little disoriented.",
+        "character": "Leslie"
+    },
+    {
+        "id": "24",
+        "quote": "I have no idea what I'm doing, but I know I'm doing it well.",
+        "character": "Andy"
+    },
+    {
+        "id": "23",
+        "quote": "My name is Burt Macklin. I'm with the f@#king FBI.",
+        "character": "Andy"
+    },
+    {
+        "id": "22",
+        "quote": "All my favorite foods have butter on them. Pancakes, toast, popcorn, grapes *GASP*...butter is my favorite food.",
+        "character": "Andy"
+    },
+    {
+        "id": "21",
+        "quote": "Leslie, I typed your symptoms into the thing up here, and it says you could have network connectivity problems.",
+        "character": "Andy"
+    },
+    {
+        "id": "20",
+        "quote": "I'm allergic to sushi. Every time I eat more than 80 sushi, I barf.",
+        "character": "Andy"
+    },
+    {
+        "id": "19",
+        "quote": "Ann: You made me watch all eight Harry Potter movies. I don't even like Harry Potter! Leslie: That's insane! You love Harry Potter! You've seen all eight movies!",
+        "character": "Ann and Leslie"
+    },
+    {
+        "id": "18",
+        "quote": "They're old people. They eat, they sleep, they complain. Oh my god, I wanna be an old person.",
+        "character": "Andy"
+    },
+    {
+        "id": "17",
+        "quote": "Messy is fun, okay? My whole life is a giant mess, and I love it.",
+        "character": "Andy"
+    },
+    {
+        "id": "16",
+        "quote": "Oh, I have a medical condition, alright. It's called CARING TOO MUCH! And it's INCURABLE!",
+        "character": "Craig"
+    },
+    { "id": "15", "quote": "Stop…pooping!", "character": "Chris" },
+    {
+        "id": "14",
+        "quote": "Yesterday, if you would have asked me, I would have said no, but thank god my grandfather just died, so I am aflushed with cash!",
+        "character": "Jean-Ralphio"
+    },
+    {
+        "id": "13",
+        "quote": "What religion am I? Well, I'm a practicing none of your [bleep] business.",
+        "character": "Ron"
+    },
+    {
+        "id": "12",
+        "quote": "A smooth and silky evening to you all. On nights like this, when the cold winds blow, and the air is awash in the swirling eddies of our dreams, come with me and find safe haven…in a warm bathtub full of my jazz.",
+        "character": "Duke Silver"
+    },
+    {
+        "id": "11",
+        "quote": "What's it like to stare into the eye of Satan's butthole?",
+        "character": "Ron"
+    },
+    {
+        "id": "10",
+        "quote": "One time my refrigerator stopped working; I didn't know what to do. I just moved.",
+        "character": "Tom"
+    },
+    {
+        "id": "9",
+        "quote": "Have you guys seen Hitler?",
+        "character": "Andy/Burt Macklin"
+    },
+    {
+        "id": "8",
+        "quote": "Do you think a depressed person could make this?",
+        "character": "Ben"
+    },
+    { "id": "7", "quote": "A game is the foot.", "character": "Andy" },
+    {
+        "id": "6",
+        "quote": "Jogging is the worst! I know it keeps you healthy, but god, at what cost?",
+        "character": "Ann"
+    },
+    {
+        "id": "5",
+        "quote": "There has never been a sadness that can't be cured by breakfast food.",
+        "character": "Ron"
+    },
+    {
+        "id": "4",
+        "quote": "Any dog under 50 pounds is a cat, and cats are pointless.",
+        "character": "Ron"
+    },
+    {
+        "id": "3",
+        "quote": "Just give me all the bacon and eggs you have. Wait, wait. I worry what you just heard was, 'Give me a lot of bacon and eggs.' What I said was, 'Give me all the bacon and eggs you have.' Do you understand?",
+        "character": "Ron"
+    },
+    {
+        "id": "2",
+        "quote": "Never half-ass two things. Whole-ass one thing.",
+        "character": "Ron"
+    },
+    { "id": "1", "quote": "Treat yo'self.", "character": "Tom and Donna" }
 ]
