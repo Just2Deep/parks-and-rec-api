@@ -12,7 +12,7 @@ app.use("*", cors());
 // Routes
 app.get("/", (c) => {
     // For base url, go to github readme
-    return c.redirect("https://github.com/Just2Deep", 302);
+    return c.redirect("https://github.com/Just2Deep/parks-and-rec-api", 302);
 });
 
 // Quotes routes
@@ -40,7 +40,7 @@ app.get("/quote/:id", (c) => {
         return c.json(
             {
                 ok: false,
-                message: "ID not found",
+                message: "ID does not exist in database",
             },
             400
         );
